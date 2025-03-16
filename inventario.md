@@ -1,5 +1,7 @@
 2101084 2110992
 
+# Componenti
+
 Processori:
 - Processore 1
 - Processore 2
