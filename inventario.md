@@ -14,5 +14,9 @@ Schede madri:
 
 # Periferiche:
 
-Elettronica Padovana
+Tastiere:
+- Tastiera 1
+- Tastiera 2
+- Tastiera 3
 
+Elettronica Padovana
