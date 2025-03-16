@@ -12,5 +12,7 @@ Schede madri:
 - Scheda Madre 2
 - Scheda Madre 3
 
+# Periferiche:
+
 Elettronica Padovana
 
