@@ -14,10 +14,14 @@ Schede madri:
 
 # Periferiche:
 
+Tastiere:
+- Tastiera 1
+- Tastiera 2
+- Tastiera 3
+
 Mouse:
 - Mouse 1
 - Mouse 2
 - Mouse 3
 
 Elettronica Padovana
-
